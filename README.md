@@ -1,1 +1,1 @@
-# My Cydia Repo.
+# Terry's repository.
