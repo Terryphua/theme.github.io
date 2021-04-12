@@ -13,7 +13,7 @@ Author: @terry._.phua <phuachenghongterry@gmail.com>
 Maintainer: @terry._.phua <phuachenghongterry@gmail.com>
 
 Name: Venus
-Package: venus
+Package: com.terryphua.venus
 Description: Venus is the second planet from the Sun, and is Earth's closest neighbor in the solar system. 
 Architecture: iphoneos-arm
 Section: Themes
@@ -25,6 +25,7 @@ SHA1: 9d283bc900c957f7612a70bef2b45fd6d46c62da
 SHA256: 0d07bbe7dcefdda0f7c0a96ba7afc0b33c816102f11f85cb78b579eb7fd228d2
 Author: @terry._.phua <phuachenghongterry@gmail.com>
 Maintainer: @terry._.phua <phuachenghongterry@gmail.com>
+
 
 
 
