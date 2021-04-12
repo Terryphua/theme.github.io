@@ -1,0 +1,37 @@
+<package>
+	<id>com.terryphua.gradientpurple</id>
+	<name>A Test Theme</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Beautiful Gradient Purple Theme!!</shortDescription>
+	<descriptionlist>
+		<description>Simple, modern & beautiful Gradient Purple!!!</description>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Beautiful Theme <3</description>
+			<image>Gradpurpsetup.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Instgram</name>
+			<url>https://www.instagram.com/terry._.phua/</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+	</links>
+</package>
+
