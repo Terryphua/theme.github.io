@@ -4,7 +4,6 @@ Description: Simple, modern & beautiful Gradient Purple
 Architecture: iphoneos-arm
 Section: Themes
 Version: 1.2
-Tag: purpose::extension, compatible_min::ios7.0, compatible_max::ios12.4
 Filename: ./debs/GradPurp.deb
 Size: 4655530
 MD5sum: acee3f874c5cb2360523df5b51256c29
@@ -12,6 +11,21 @@ SHA1: 81ef95c1409dc2354df2046ceda755f857a3e62a
 SHA256: 13fda53cabfb688f8e5ad9df0f8024f08e370bcbfdd99512c1575bcb19885bb0
 Author: @terry._.phua <phuachenghongterry@gmail.com>
 Maintainer: @terry._.phua <phuachenghongterry@gmail.com>
+
+Name: Legacy
+Package: com.terryphua.legacy
+Description: A theme for you to look rich.
+Architecture: iphoneos-arm
+Section: Themes
+Version: 1.0
+Filename: ./debs/Legacy.deb
+Size: 4475754
+MD5sum: 514041d22cf3f6e6cda3913bf511587f
+SHA1: 1735d9901b3b4f23ddc96072f787c2f6ebec5221
+SHA256: 5c8772fd229895318f005875cca91735c9f2117c560e0c36709f92701d3498f6
+Author: @terry._.phua <phuachenghongterry@gmail.com>
+Maintainer: @terry._.phua <phuachenghongterry@gmail.com>
+
 
 
 
